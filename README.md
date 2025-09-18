@@ -3,7 +3,13 @@
 This project implements an AlexNet-based convolutional neural network for image classification. The model was trained and evaluated on a dataset split into **80:20 (train:validation)**.  
 
 ---
+## Files  
 
+- **`README.md`** – Project documentation with architecture details, hyperparameters, and results.  
+- **`Report.docx`** – Full written report summarizing experiments, observations, and performance.  
+- **`alexnet (1).ipynb`** – Jupyter Notebook implementation of the AlexNet-inspired CNN model.  
+- **`log1.txt` / `log2.txt` / `log3.txt`** – Training logs capturing accuracy/loss metrics under different learning rates and epoch settings.  
+- **`model_weights.pth`** – Saved PyTorch model weights from the best-performing run.  
 ## Model Architecture  
 
 - **Convolutional layers:**  
