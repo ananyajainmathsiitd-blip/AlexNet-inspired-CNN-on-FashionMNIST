@@ -1,0 +1,178 @@
+Epoch [1/40], Step [100/480], Loss: 1.2127
+Epoch [1/40], Step [200/480], Loss: 0.9650
+Epoch [1/40], Step [300/480], Loss: 0.8003
+Epoch [1/40], Step [400/480], Loss: 0.8041
+Saved best model at epoch 0 with val loss 0.7038
+Epoch [2/40], Step [100/480], Loss: 0.4880
+Epoch [2/40], Step [200/480], Loss: 0.6156
+Epoch [2/40], Step [300/480], Loss: 0.6094
+Epoch [2/40], Step [400/480], Loss: 0.6197
+Saved best model at epoch 1 with val loss 0.6099
+Epoch [3/40], Step [100/480], Loss: 0.7448
+Epoch [3/40], Step [200/480], Loss: 0.5649
+Epoch [3/40], Step [300/480], Loss: 0.6048
+Epoch [3/40], Step [400/480], Loss: 0.5294
+Saved best model at epoch 2 with val loss 0.5466
+Epoch [4/40], Step [100/480], Loss: 0.6270
+Epoch [4/40], Step [200/480], Loss: 0.4893
+Epoch [4/40], Step [300/480], Loss: 0.3200
+Epoch [4/40], Step [400/480], Loss: 0.5275
+Saved best model at epoch 3 with val loss 0.5110
+Epoch [5/40], Step [100/480], Loss: 0.4158
+Epoch [5/40], Step [200/480], Loss: 0.5285
+Epoch [5/40], Step [300/480], Loss: 0.3898
+Epoch [5/40], Step [400/480], Loss: 0.4340
+Saved best model at epoch 4 with val loss 0.4880
+Epoch [6/40], Step [100/480], Loss: 0.5872
+Epoch [6/40], Step [200/480], Loss: 0.3872
+Epoch [6/40], Step [300/480], Loss: 0.5056
+Epoch [6/40], Step [400/480], Loss: 0.3645
+Saved best model at epoch 5 with val loss 0.4495
+Epoch [7/40], Step [100/480], Loss: 0.4053
+Epoch [7/40], Step [200/480], Loss: 0.3818
+Epoch [7/40], Step [300/480], Loss: 0.2544
+Epoch [7/40], Step [400/480], Loss: 0.3964
+Saved best model at epoch 6 with val loss 0.4337
+Epoch [8/40], Step [100/480], Loss: 0.3318
+Epoch [8/40], Step [200/480], Loss: 0.2808
+Epoch [8/40], Step [300/480], Loss: 0.4089
+Epoch [8/40], Step [400/480], Loss: 0.3828
+Saved best model at epoch 7 with val loss 0.4185
+Epoch [9/40], Step [100/480], Loss: 0.3900
+Epoch [9/40], Step [200/480], Loss: 0.4943
+Epoch [9/40], Step [300/480], Loss: 0.3801
+Epoch [9/40], Step [400/480], Loss: 0.4539
+Saved best model at epoch 8 with val loss 0.3965
+Epoch [10/40], Step [100/480], Loss: 0.2457
+Epoch [10/40], Step [200/480], Loss: 0.3389
+Epoch [10/40], Step [300/480], Loss: 0.3175
+Epoch [10/40], Step [400/480], Loss: 0.4135
+Saved best model at epoch 9 with val loss 0.3908
+Epoch [11/40], Step [100/480], Loss: 0.3901
+Epoch [11/40], Step [200/480], Loss: 0.2694
+Epoch [11/40], Step [300/480], Loss: 0.4280
+Epoch [11/40], Step [400/480], Loss: 0.3338
+Saved best model at epoch 10 with val loss 0.3806
+Epoch [12/40], Step [100/480], Loss: 0.3622
+Epoch [12/40], Step [200/480], Loss: 0.3597
+Epoch [12/40], Step [300/480], Loss: 0.3277
+Epoch [12/40], Step [400/480], Loss: 0.2338
+Saved best model at epoch 11 with val loss 0.3731
+Epoch [13/40], Step [100/480], Loss: 0.3898
+Epoch [13/40], Step [200/480], Loss: 0.2538
+Epoch [13/40], Step [300/480], Loss: 0.3370
+Epoch [13/40], Step [400/480], Loss: 0.3318
+Saved best model at epoch 12 with val loss 0.3729
+Epoch [14/40], Step [100/480], Loss: 0.3379
+Epoch [14/40], Step [200/480], Loss: 0.3060
+Epoch [14/40], Step [300/480], Loss: 0.3985
+Epoch [14/40], Step [400/480], Loss: 0.2561
+Saved best model at epoch 13 with val loss 0.3700
+Epoch [15/40], Step [100/480], Loss: 0.1748
+Epoch [15/40], Step [200/480], Loss: 0.2897
+Epoch [15/40], Step [300/480], Loss: 0.2770
+Epoch [15/40], Step [400/480], Loss: 0.2809
+Epoch [16/40], Step [100/480], Loss: 0.2850
+Epoch [16/40], Step [200/480], Loss: 0.2798
+Epoch [16/40], Step [300/480], Loss: 0.4194
+Epoch [16/40], Step [400/480], Loss: 0.4313
+Saved best model at epoch 15 with val loss 0.3629
+Epoch [17/40], Step [100/480], Loss: 0.2565
+Epoch [17/40], Step [200/480], Loss: 0.3152
+Epoch [17/40], Step [300/480], Loss: 0.2167
+Epoch [17/40], Step [400/480], Loss: 0.3280
+Saved best model at epoch 16 with val loss 0.3565
+Epoch [18/40], Step [100/480], Loss: 0.1631
+Epoch [18/40], Step [200/480], Loss: 0.2659
+Epoch [18/40], Step [300/480], Loss: 0.2678
+Epoch [18/40], Step [400/480], Loss: 0.2700
+Epoch [19/40], Step [100/480], Loss: 0.2491
+Epoch [19/40], Step [200/480], Loss: 0.2649
+Epoch [19/40], Step [300/480], Loss: 0.1911
+Epoch [19/40], Step [400/480], Loss: 0.3117
+Saved best model at epoch 18 with val loss 0.3563
+Epoch [20/40], Step [100/480], Loss: 0.2351
+Epoch [20/40], Step [200/480], Loss: 0.2034
+Epoch [20/40], Step [300/480], Loss: 0.2431
+Epoch [20/40], Step [400/480], Loss: 0.2439
+Epoch [21/40], Step [100/480], Loss: 0.2472
+Epoch [21/40], Step [200/480], Loss: 0.2174
+Epoch [21/40], Step [300/480], Loss: 0.2050
+Epoch [21/40], Step [400/480], Loss: 0.2273
+Epoch [22/40], Step [100/480], Loss: 0.1579
+Epoch [22/40], Step [200/480], Loss: 0.2001
+Epoch [22/40], Step [300/480], Loss: 0.2034
+Epoch [22/40], Step [400/480], Loss: 0.2335
+Saved best model at epoch 21 with val loss 0.3488
+Epoch [23/40], Step [100/480], Loss: 0.1995
+Epoch [23/40], Step [200/480], Loss: 0.1824
+Epoch [23/40], Step [300/480], Loss: 0.3010
+Epoch [23/40], Step [400/480], Loss: 0.1698
+Epoch [24/40], Step [100/480], Loss: 0.1582
+Epoch [24/40], Step [200/480], Loss: 0.1794
+Epoch [24/40], Step [300/480], Loss: 0.2898
+Epoch [24/40], Step [400/480], Loss: 0.2715
+Epoch [25/40], Step [100/480], Loss: 0.2097
+Epoch [25/40], Step [200/480], Loss: 0.2482
+Epoch [25/40], Step [300/480], Loss: 0.1503
+Epoch [25/40], Step [400/480], Loss: 0.2906
+Epoch [26/40], Step [100/480], Loss: 0.1458
+Epoch [26/40], Step [200/480], Loss: 0.1787
+Epoch [26/40], Step [300/480], Loss: 0.2584
+Epoch [26/40], Step [400/480], Loss: 0.1638
+Epoch [27/40], Step [100/480], Loss: 0.2189
+Epoch [27/40], Step [200/480], Loss: 0.1689
+Epoch [27/40], Step [300/480], Loss: 0.1906
+Epoch [27/40], Step [400/480], Loss: 0.1852
+Epoch [28/40], Step [100/480], Loss: 0.2181
+Epoch [28/40], Step [200/480], Loss: 0.1684
+Epoch [28/40], Step [300/480], Loss: 0.1139
+Epoch [28/40], Step [400/480], Loss: 0.1739
+Epoch [29/40], Step [100/480], Loss: 0.1613
+Epoch [29/40], Step [200/480], Loss: 0.1191
+Epoch [29/40], Step [300/480], Loss: 0.2192
+Epoch [29/40], Step [400/480], Loss: 0.2274
+Epoch [30/40], Step [100/480], Loss: 0.1493
+Epoch [30/40], Step [200/480], Loss: 0.3834
+Epoch [30/40], Step [300/480], Loss: 0.1398
+Epoch [30/40], Step [400/480], Loss: 0.1589
+Epoch [31/40], Step [100/480], Loss: 0.2988
+Epoch [31/40], Step [200/480], Loss: 0.1075
+Epoch [31/40], Step [300/480], Loss: 0.1552
+Epoch [31/40], Step [400/480], Loss: 0.2179
+Epoch [32/40], Step [100/480], Loss: 0.0994
+Epoch [32/40], Step [200/480], Loss: 0.1435
+Epoch [32/40], Step [300/480], Loss: 0.0936
+Epoch [32/40], Step [400/480], Loss: 0.1717
+Epoch [33/40], Step [100/480], Loss: 0.0783
+Epoch [33/40], Step [200/480], Loss: 0.1756
+Epoch [33/40], Step [300/480], Loss: 0.1987
+Epoch [33/40], Step [400/480], Loss: 0.1159
+Epoch [34/40], Step [100/480], Loss: 0.2046
+Epoch [34/40], Step [200/480], Loss: 0.1445
+Epoch [34/40], Step [300/480], Loss: 0.1899
+Epoch [34/40], Step [400/480], Loss: 0.1514
+Epoch [35/40], Step [100/480], Loss: 0.0917
+Epoch [35/40], Step [200/480], Loss: 0.1220
+Epoch [35/40], Step [300/480], Loss: 0.1261
+Epoch [35/40], Step [400/480], Loss: 0.1200
+Epoch [36/40], Step [100/480], Loss: 0.1969
+Epoch [36/40], Step [200/480], Loss: 0.1148
+Epoch [36/40], Step [300/480], Loss: 0.1409
+Epoch [36/40], Step [400/480], Loss: 0.1984
+Epoch [37/40], Step [100/480], Loss: 0.0931
+Epoch [37/40], Step [200/480], Loss: 0.1538
+Epoch [37/40], Step [300/480], Loss: 0.1890
+Epoch [37/40], Step [400/480], Loss: 0.1496
+Epoch [38/40], Step [100/480], Loss: 0.0944
+Epoch [38/40], Step [200/480], Loss: 0.1532
+Epoch [38/40], Step [300/480], Loss: 0.1071
+Epoch [38/40], Step [400/480], Loss: 0.1690
+Epoch [39/40], Step [100/480], Loss: 0.1033
+Epoch [39/40], Step [200/480], Loss: 0.1330
+Epoch [39/40], Step [300/480], Loss: 0.1367
+Epoch [39/40], Step [400/480], Loss: 0.1127
+Epoch [40/40], Step [100/480], Loss: 0.2080
+Epoch [40/40], Step [200/480], Loss: 0.1121
+Epoch [40/40], Step [300/480], Loss: 0.0715
+Epoch [40/40], Step [400/480], Loss: 0.0745
